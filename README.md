@@ -1,4 +1,4 @@
-### Hello there 👋🏻, welcome to my GitHub Profile.
+<h1 align="center">Hello there 👋🏻, welcome to my GitHub Profile.</h1>
 <h3 align="center">Lifetime Learner</h3>
 <div id="header" align="center">
 
