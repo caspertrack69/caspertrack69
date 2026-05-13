@@ -26,8 +26,9 @@
 * Exploring automation, artificial intelligence workflows, and Progressive Web Apps (PWA) to solve modern business challenges.
 * Author of the ebook: *Fleksibilitas AI untuk Menunjang Kebutuhan Kerja dan Produktivitas Sehari-hari*.
 
-![GitHub followers](https://img.shields.io/github/followers/caspertrack69?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=caspertrack69&color=blue)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caspertrack69&show_icons=true&theme=transparent&hide_border=true&title_color=blue" alt="caspertrack69's GitHub Stats" />
+</div>
 
 
 
