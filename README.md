@@ -28,13 +28,48 @@
 
 ### Highlighted Projects
 
-| Repository & Description | Stars & Forks |
-| :--- | :---: |
-| **[LitPOS-Apps-Script](https://github.com/caspertrack69/LitPOS-Apps-Script)**<br>Compact mobile-first retail POS powered by Google Apps Script. | ![Stars](https://img.shields.io/github/stars/caspertrack69/LitPOS-Apps-Script?style=flat-square) <br> ![Forks](https://img.shields.io/github/forks/caspertrack69/LitPOS-Apps-Script?style=flat-square) |
-| **[Thermal-Bridge](https://github.com/caspertrack69/Thermal-Bridge)**<br>Chrome Extension (Manifest V3) Jembatan Web-to-Bluetooth untuk printer thermal ESC/POS. | ![Stars](https://img.shields.io/github/stars/caspertrack69/Thermal-Bridge?style=flat-square) <br> ![Forks](https://img.shields.io/github/forks/caspertrack69/Thermal-Bridge?style=flat-square) |
-| **[MyTIX-POS-Google-Apps-Script](https://github.com/caspertrack69/MyTIX-POS-Google-Apps-Script)**<br>Aplikasi kasir tiket dengan frontend static dan backend API di Google Sheets. | ![Stars](https://img.shields.io/github/stars/caspertrack69/MyTIX-POS-Google-Apps-Script?style=flat-square) <br> ![Forks](https://img.shields.io/github/forks/caspertrack69/MyTIX-POS-Google-Apps-Script?style=flat-square) |
-| **[Kasira](https://github.com/caspertrack69/Kasira)**<br>Multi-Entity Billing & Payment Management Platform. | ![Stars](https://img.shields.io/github/stars/caspertrack69/Kasira?style=flat-square) <br> ![Forks](https://img.shields.io/github/forks/caspertrack69/Kasira?style=flat-square) |
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/caspertrack69/LitPOS-Apps-Script"><b>LitPOS-Apps-Script</b></a>
+      <br/>
+      <small>Compact mobile-first retail POS powered by Google Apps Script.</small>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/github/stars/caspertrack69/LitPOS-Apps-Script?style=social" />
+      <img src="https://img.shields.io/github/forks/caspertrack69/LitPOS-Apps-Script?style=social" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/caspertrack69/Thermal-Bridge"><b>Thermal-Bridge</b></a>
+      <br/>
+      <small>Chrome Extension (Manifest V3) Jembatan Web-to-Bluetooth untuk printer thermal ESC/POS.</small>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/github/stars/caspertrack69/Thermal-Bridge?style=social" />
+      <img src="https://img.shields.io/github/forks/caspertrack69/Thermal-Bridge?style=social" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/caspertrack69/MyTIX-POS-Google-Apps-Script"><b>MyTIX-POS-Google-Apps-Script</b></a>
+      <br/>
+      <small>Aplikasi kasir tiket dengan frontend static dan backend API di Google Sheets.</small>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/github/stars/caspertrack69/MyTIX-POS-Google-Apps-Script?style=social" />
+      <img src="https://img.shields.io/github/forks/caspertrack69/MyTIX-POS-Google-Apps-Script?style=social" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/caspertrack69/Kasira"><b>Kasira</b></a>
+      <br/>
+      <small>Multi-Entity Billing & Payment Management Platform.</small>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/github/stars/caspertrack69/Kasira?style=social" />
+      <img src="https://img.shields.io/github/forks/caspertrack69/Kasira?style=social" />
+    </td>
+  </tr>
+</table>
 
 
 
