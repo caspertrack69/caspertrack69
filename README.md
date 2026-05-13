@@ -26,9 +26,14 @@
 * Exploring automation, artificial intelligence workflows, and Progressive Web Apps (PWA) to solve modern business challenges.
 * Author of the ebook: *Fleksibilitas AI untuk Menunjang Kebutuhan Kerja dan Produktivitas Sehari-hari*.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caspertrack69&show_icons=true&theme=transparent&hide_border=true&title_color=blue" alt="caspertrack69's GitHub Stats" />
-</div>
+### Highlighted Projects
+
+| Repository & Description | Stars & Forks |
+| :--- | :---: |
+| **[LitPOS-Apps-Script](https://github.com/caspertrack69/LitPOS-Apps-Script)**<br>Compact mobile-first retail POS powered by Google Apps Script. | ![Stars](https://img.shields.io/github/stars/caspertrack69/LitPOS-Apps-Script?style=flat-square) <br> ![Forks](https://img.shields.io/github/forks/caspertrack69/LitPOS-Apps-Script?style=flat-square) |
+| **[Thermal-Bridge](https://github.com/caspertrack69/Thermal-Bridge)**<br>Chrome Extension (Manifest V3) Jembatan Web-to-Bluetooth untuk printer thermal ESC/POS. | ![Stars](https://img.shields.io/github/stars/caspertrack69/Thermal-Bridge?style=flat-square) <br> ![Forks](https://img.shields.io/github/forks/caspertrack69/Thermal-Bridge?style=flat-square) |
+| **[MyTIX-POS-Google-Apps-Script](https://github.com/caspertrack69/MyTIX-POS-Google-Apps-Script)**<br>Aplikasi kasir tiket dengan frontend static dan backend API di Google Sheets. | ![Stars](https://img.shields.io/github/stars/caspertrack69/MyTIX-POS-Google-Apps-Script?style=flat-square) <br> ![Forks](https://img.shields.io/github/forks/caspertrack69/MyTIX-POS-Google-Apps-Script?style=flat-square) |
+| **[Kasira](https://github.com/caspertrack69/Kasira)**<br>Multi-Entity Billing & Payment Management Platform. | ![Stars](https://img.shields.io/github/stars/caspertrack69/Kasira?style=flat-square) <br> ![Forks](https://img.shields.io/github/forks/caspertrack69/Kasira?style=flat-square) |
 
 
 
